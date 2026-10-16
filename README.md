@@ -1,1 +1,2 @@
-_config.yml
+# _config.yml
+testando um leitor de planilha consignado
