@@ -1,2 +1,2 @@
-# crm-consignado
+_config.yml # crm-consignado
 testando um leitor de planilha consignado
